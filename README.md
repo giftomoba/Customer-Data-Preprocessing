@@ -5,3 +5,6 @@ This project focuses on data preprocessing, transformation and storage tasks on 
 - To format and store the data in different formats (.json, etc)
 - To compute and add extra feature to the data based on the relationship between other features in the data.
 - Visualize the data set and derive meaningful insights.
+
+### Link to the Jupyter notebook: 
+https://github.com/giftomoba/Customer-Data-Preprocessing/blob/main/Data%20Formatting%20and%20Visualization%20Task.ipynb
